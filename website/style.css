@@ -1,0 +1,38 @@
+*
+{
+    padding: 0;
+    margin: 0;
+
+}
+#nav{
+    background-color: rgb(216, 224, 180);
+}
+#header
+{
+    background-image: url(gym4.jpg);
+    height: 80vh;
+    background-size:cover;
+    background-position: center; 
+}
+/* text */
+.welcome{
+    padding: 50px 100px;
+    margin-top: -140px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+#footer{
+    height: 290px;
+    width: 100%;
+    background-color: rgb(216, 224, 180);
+    background-position: center; 
+}
+#head{
+    /* height: 80vh; */
+    background-size:cover;
+    background-position: center; 
+}
+#margin{
+    margin-top: 200px;
+}
